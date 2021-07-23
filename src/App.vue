@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <h2>Vuebnb Listings</h2>
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h2>Aloha Place</h2>
+    <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   </div>
 </template>
 <script>
